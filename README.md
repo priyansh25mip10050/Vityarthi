@@ -39,7 +39,7 @@ Python 3.8+
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/priyansh25mip10050/Vityarthi.git)
 cd your-repo-name
 
 
